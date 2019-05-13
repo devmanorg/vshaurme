@@ -2,7 +2,7 @@
 
 Каркас для социальной сети «ВШаурме»
 
-## Как установить
+## Как установить локально
 
 ### Скачать исходный код
 
@@ -39,6 +39,16 @@ $ flask run
 ```
 
 Сайт будет доступен по адресу `http://127.0.0.1:5000/`.
+
+
+## Как запустить на Repl.it
+
+1. Зарегистрироваться на [Repl.it](https://repl.it)
+2. Создать новый repl, импортировать репозиторий [https://github.com/devmanorg/vshaurme](https://github.com/devmanorg/vshaurme)
+
+    ![](https://user-images.githubusercontent.com/13587415/57639674-2021db00-75b9-11e9-9ca8-6dafefca9ce2.png)
+
+3. Нажать «Run»
 
 ## Цели проекта
 
